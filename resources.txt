@@ -1,0 +1,8 @@
+What are ARM templates?
+https://docs.microsoft.com/en-us/azure/azure-resource-manager/templates/overview
+
+Understand the structure and syntax of ARM templates:
+https://docs.microsoft.com/en-us/azure/azure-resource-manager/templates/syntax
+
+Introduction to GitHub Actions:
+https://docs.github.com/en/actions/learn-github-actions/introduction-to-github-actions
