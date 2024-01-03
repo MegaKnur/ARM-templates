@@ -1,3 +1,4 @@
+---
 # tasks file for ntp
 - name: make sure chrony is installed
   package: 
